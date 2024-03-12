@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MagicEden_Fetcher
 // @namespace    http://tampermonkey.net/
-// @version      1.0.2
+// @version      1.0.1
 // @description  Magic Eden Transfer Data Fetcher
 // @author       半城烟
 // @match        https://magiceden.io/*
